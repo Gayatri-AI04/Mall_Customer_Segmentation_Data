@@ -3,4 +3,4 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/Superstore%20Data.png)
+![Dashboard Preview](SuperstoreData.png)
